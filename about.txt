@@ -1,0 +1,4 @@
+KGT Web OS
+Version 1.0
+
+This is a web os based on PeOS and built by the KGT Network.
